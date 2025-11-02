@@ -8,7 +8,8 @@
 - Truck = 2,
 - Trailer = 4,
 - Moto = 8,
-- Truck = 0x10
+- Bus = 16
+- Special (Transport Jakarta) = 32
 
 ### Vehicle SpeedType ID
 
